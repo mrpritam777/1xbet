@@ -4,7 +4,7 @@
         <div class="mx-auto grid max-w-[1920px] gap-9 px-4 py-10 sm:grid-cols-2 sm:px-5 sm:py-12 lg:grid-cols-4 lg:px-8">
             <div>
                 <a href="index.php" class="flex items-center">
-                    <img src="logo.png" alt="1xbetPromoHub" class="h-12 w-auto object-contain sm:h-16">
+                    <img src="assets/images/logo.png" alt="1xbetPromoHub" class="h-12 w-auto object-contain sm:h-16">
                 </a>
                 <p class="mt-5 max-w-xs text-sm leading-7 text-blue-100/80">Your trusted source for the latest 1xbet promo codes, bonuses, and exclusive offers. Join our community and maximize your winnings.</p>
                 <div class="mt-6 flex gap-3">

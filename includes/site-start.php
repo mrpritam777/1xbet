@@ -8,7 +8,7 @@ $pageDescription = $pageDescription ?? 'Latest 1xbet promo codes, verified bonus
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?= htmlspecialchars($pageTitle); ?></title>
-    <link rel="shortcut icon" href="logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
     <meta name="description" content="<?= htmlspecialchars($pageDescription); ?>">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -45,7 +45,7 @@ $pageDescription = $pageDescription ?? 'Latest 1xbet promo codes, verified bonus
     <header class="absolute inset-x-0 top-0 z-30">
         <nav class="mx-auto flex max-w-[1920px] items-center justify-between gap-4 px-4 py-2.5 sm:px-5 sm:py-3 lg:px-8">
             <a href="index.php" class="flex min-w-0 items-center" aria-label="1xbetPromoHub home">
-                <img src="logo.png" alt="1xbetPromoHub" class="h-11 w-auto object-contain sm:h-16 lg:h-20">
+                <img src="assets/images/logo.png" alt="1xbetPromoHub" class="h-11 w-auto object-contain sm:h-16 lg:h-20">
             </a>
 
             <button id="menuBtn" class="relative z-50 inline-flex h-10 w-10 flex-none items-center justify-center rounded border border-blue-400/30 bg-blue-950/40 text-blue-100 transition hover:border-skyfire sm:h-11 sm:w-11 min-[750px]:hidden" aria-label="Open menu" aria-expanded="false">
