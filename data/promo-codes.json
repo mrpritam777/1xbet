@@ -1,0 +1,34 @@
+[
+    {
+        "tag": "Top Code",
+        "tagColor": "from-emerald-400 to-cyan-400",
+        "code": "1XHUB100",
+        "bonus": "100% Bonus",
+        "amount": "Up to Rs10,000",
+        "used": "3456"
+    },
+    {
+        "tag": "Exclusive",
+        "tagColor": "from-violet-500 to-fuchsia-500",
+        "code": "HUB200",
+        "bonus": "200% Bonus",
+        "amount": "Up to Rs20,000",
+        "used": "2890"
+    },
+    {
+        "tag": "Popular",
+        "tagColor": "from-orange-400 to-red-500",
+        "code": "HUB300",
+        "bonus": "300% Bonus",
+        "amount": "Up to Rs30,000",
+        "used": "2150"
+    },
+    {
+        "tag": "Special",
+        "tagColor": "from-blue-400 to-indigo-500",
+        "code": "1XHUBVIP",
+        "bonus": "VIP Bonus",
+        "amount": "Up to Rs50,000",
+        "used": "1876"
+    }
+]
